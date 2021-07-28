@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Tourney:wght@500&display=swap');
+
+a{
+    color: black !important;
+}
+
+.brand-logo{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size:8vw;
+}
+
+.authcard{
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+    margin:10px auto;
+}
+
+.mycard{
+    margin: 50px;
+}
+.registerauthcard{
+    padding: 20px;
+    text-align: center;
+    max-width: 600px;
+    margin:10px auto;
+}
+
+.registercard{
+    margin: 30px;
+}
+
+#toast-container{
+    top:30px !important;
+    right:20px !important;
+    left:auto !important;
+}
+
+.hide-on-med-and-down {
+    display: block !important;
+  }
+  #nav-mobile {
+    display: none;
+  }
+  .button-collapse {
+    display: none;
+  }
+#img1,#img2,#img3,#img4{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carousel{
+    height: 80vh;
+}
+select {
+    display : block !important;
+}
+#card_images {
+    width: 100% !important;
+    height: 15vw !important;
+    object-fit: cover !important;
+}
+#paralaximg{
+    height:60vh !important;
+}
